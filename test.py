@@ -1,3 +1,3 @@
 print('hello world!')
-print('test')
-print('changed')
+print('tim is great')
+print('text')
